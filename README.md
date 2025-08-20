@@ -2,7 +2,6 @@
 
 A simple and responsive inventory management web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to view, filter, and sort stock items with a clean, modern UI and dark mode support.
 
-> ✅ Perfect for beginners to understand DOM manipulation, filtering, sorting, and UI interactivity.
 
 ---
 
