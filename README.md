@@ -23,7 +23,8 @@ A simple and responsive inventory management web application built using **HTML*
 ### 💻 Dashboard UI
 
 ![App Preview - Dashboard](./screenshot-dashboard.png)  
-*Upload your dashboard screenshot and rename it to `screenshot-dashboard.png` for this to work properly.*
+<img width="1556" height="844" alt="image" src="https://github.com/user-attachments/assets/1f95dfa1-fdbc-42fc-8227-5186ac9f3541" />
+
 
 ---
 
