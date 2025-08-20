@@ -55,6 +55,5 @@ A simple and responsive inventory management web application built using **HTML*
 
 ---
 
-## 🗂️ Project Structure
 
 
