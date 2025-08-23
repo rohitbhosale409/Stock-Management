@@ -29,12 +29,6 @@ A simple and responsive inventory management web application built using **HTML*
 <img width="1284" height="683" alt="image" src="https://github.com/user-attachments/assets/67e6857e-dd5c-433f-9a92-98b27eb0f592" />
 <img width="1155" height="918" alt="image" src="https://github.com/user-attachments/assets/3daf7e28-f201-4f65-933b-b1be04a6a9c5" />
 
-
-
-
-
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -51,9 +45,9 @@ A simple and responsive inventory management web application built using **HTML*
 - **Sort**: Sort the list by name or stock, in ascending or descending order
 - **Highlighting**:
   - Stock = `0` ➤ 🔴 (Out of Stock)
-  - Stock < `5` ➤ 🟡 (Low Stock)
+  - Stock < `5` ➤ 🟡 (Low Stock) 
 
----
+-----
 
 
 
